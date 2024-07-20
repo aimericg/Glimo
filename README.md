@@ -1,29 +1,15 @@
-# Panamera
+# Glimo
 
-[![][Fontbakery]](https://noirblancrouge.github.io/Panamera/fontbakery/fontbakery-report.html)
-[![][Universal]](https://noirblancrouge.github.io/Panamera/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://noirblancrouge.github.io/Panamera/fontbakery/fontbakery-report.html)
-[![][Outline Correctness]](https://noirblancrouge.github.io/Panamera/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://noirblancrouge.github.io/Panamera/fontbakery/fontbakery-report.html)
+Glimo is a fork of Panamera from NoirBlancRouge, a modern sans serif font family. It was modified and tweak through python scripts creating sliced bubble-y shappes.
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https://noirblancrouge.github.io/Panamera/fontbakery/overall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https://noirblancrouge.github.io/Panamera/fontbakery/GoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https://noirblancrouge.github.io/Panamera/fontbakery/OutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https://noirblancrouge.github.io/Panamera/fontbakery/ShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https://noirblancrouge.github.io/Panamera/fontbakery/Universal.json
-
-![Cover](https://raw.githubusercontent.com/noirblancrouge/Panamera/master/documentation/images/panamera.jpg)
-
-Panamera is a modern sans serif font family. It comes in six weights, from Thin To Heavy, contains a full glyphs set, including multilingual support, openType features and also a variable font version.
-
-Panamera font works well both for texts and titles and can be used for a wide range of projects.
-
-![Specimen](https://raw.githubusercontent.com/noirblancrouge/Panamera/master/documentation/images/panamera-charset.jpg)
 
 ## ChangeLog
 
 When you make modifications, be sure to add a description of your changes,
 following the format of the other entries, to the start of this section.
+
+20 Jul 2024 (Aimeric Permata Guerre - Aimeric Design)
+- Fork of Panamera, Glimo Black and Glimo Distorted Black
 
 27 Jul 2023 (Bastien Sozeau)
 - Add glyphs, add variable version, overall cleanup and redesign
