@@ -3,3 +3,5 @@ venv
 .ninja_log
 build.ninja
 build.stamp
+DS_Store
+._*
